@@ -1,0 +1,175 @@
+[
+       {
+          "name":"Chef 1",
+          "_id" :"01",
+          "experience":"10 years",
+          "likes":"20",
+          "img": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hlZnxlbnwwfHwwfHw%3D&w=1000&q=80",
+          "short_bio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod mauris et tellus finibus, sed blandit quam convallis.",
+          "recipe_list":[
+             {
+                "name":"Pesto pasta",
+                "type":"Italian",
+                "ingredients":[
+                   "Pasta",
+                   "Basil",
+                   "Garlic",
+                   "Parmesan cheese",
+                   "Olive oil"
+                ]
+               
+             },
+             {
+                "name":"Grilled salmon",
+                "type":"Seafood",
+                "ingredients":[
+                   "Salmon fillets",
+                   "Lemon",
+                   "Garlic",
+                   "Salt",
+                   "Pepper"
+                ],
+                "instructions":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod mauris et tellus finibus, sed blandit quam convallis."
+             }
+          ]
+       },
+       {
+        "name":"Chef 2",
+        "_id" :"02",
+        "experience":"10 years",
+        "likes":"20",
+        "img": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hlZnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "short_bio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod mauris et tellus finibus, sed blandit quam convallis.",
+        "recipe_list":[
+           {
+              "name":"Pesto pasta",
+              "type":"Italian",
+              "ingredients":[
+                 "Pasta",
+                 "Basil",
+                 "Garlic",
+                 "Parmesan cheese",
+                 "Olive oil"
+              ]
+             
+           },
+           {
+              "name":"Grilled salmon",
+              "type":"Seafood",
+              "ingredients":[
+                 "Salmon fillets",
+                 "Lemon",
+                 "Garlic",
+                 "Salt",
+                 "Pepper"
+              ],
+              "instructions":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod mauris et tellus finibus, sed blandit quam convallis."
+           }
+        ]
+     },
+       {
+        "name":"Chef 3",
+        "_id" :"03",
+        "experience":"10 years",
+        "likes":"20",
+        "img": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hlZnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "short_bio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod mauris et tellus finibus, sed blandit quam convallis.",
+        "recipe_list":[
+           {
+              "name":"Pesto pasta",
+              "type":"Italian",
+              "ingredients":[
+                 "Pasta",
+                 "Basil",
+                 "Garlic",
+                 "Parmesan cheese",
+                 "Olive oil"
+              ]
+             
+           },
+           {
+              "name":"Grilled salmon",
+              "type":"Seafood",
+              "ingredients":[
+                 "Salmon fillets",
+                 "Lemon",
+                 "Garlic",
+                 "Salt",
+                 "Pepper"
+              ],
+              "instructions":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod mauris et tellus finibus, sed blandit quam convallis."
+           }
+        ]
+     },
+       {
+        "name":"Chef 4",
+        "_id" :"04",
+        "experience":"10 years",
+        "likes":"20",
+        "img": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hlZnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "short_bio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod mauris et tellus finibus, sed blandit quam convallis.",
+        "recipe_list":[
+           {
+              "name":"Pesto pasta",
+              "type":"Italian",
+              "ingredients":[
+                 "Pasta",
+                 "Basil",
+                 "Garlic",
+                 "Parmesan cheese",
+                 "Olive oil"
+              ]
+             
+           },
+           {
+              "name":"Grilled salmon",
+              "type":"Seafood",
+              "ingredients":[
+                 "Salmon fillets",
+                 "Lemon",
+                 "Garlic",
+                 "Salt",
+                 "Pepper"
+              ],
+              "instructions":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod mauris et tellus finibus, sed blandit quam convallis."
+           }
+        ]
+     },
+       {
+        "name":"Chef 5",
+        "_id" :"05",
+        "experience":"10 years",
+        "likes":"20",
+        "img": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hlZnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "short_bio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod mauris et tellus finibus, sed blandit quam convallis.",
+        "recipe_list":[
+           {
+              "name":"Pesto pasta",
+              "type":"Italian",
+              "ingredients":[
+                 "Pasta",
+                 "Basil",
+                 "Garlic",
+                 "Parmesan cheese",
+                 "Olive oil"
+              ]
+             
+           },
+           {
+              "name":"Grilled salmon",
+              "type":"Seafood",
+              "ingredients":[
+                 "Salmon fillets",
+                 "Lemon",
+                 "Garlic",
+                 "Salt",
+                 "Pepper"
+              ],
+              "instructions":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod mauris et tellus finibus, sed blandit quam convallis."
+           }
+        ]
+     }
+    ]
+
+ 
+  
