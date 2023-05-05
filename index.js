@@ -22,7 +22,7 @@ app.get('/chef',(req,res) =>{
 app.get('/chef/:id',(req,res) =>{
     const id = req.params.id;
     console.log(id)
-    const selectedChef = chef.map(c =>c._id === id)
+    const selectedChef = chef.find(c =>c._id === id)
     res.send(selectedChef)
 })
 
