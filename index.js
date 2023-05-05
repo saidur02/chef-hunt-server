@@ -16,7 +16,7 @@ app.get('/',(req, res) =>{
 
 
 app.get('/chef',(req,res) =>{
-    res.send(chef)
+    res.send(chef);
 })
 
 app.get('/chef/:id',(req,res) =>{
